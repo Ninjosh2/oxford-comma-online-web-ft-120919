@@ -2,7 +2,7 @@ def oxford_comma(array)
  case array.length
  
  when 1 
-   "#{array}"
+   "#{array[0]}"
    
   
 end
